@@ -1,3 +1,3 @@
-# SensorWeb London Sharing
+# SensorWeb London
 
-A slide of sharing SensorWeb progress on London Workweek.
+A slide of sharing SensorWeb progress in London Workweek.
